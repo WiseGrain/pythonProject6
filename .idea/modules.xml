@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/数据挖掘/相关代码/03.C4.5决策树算法（使用信息增益率作为属性选择度量）/C4.5决策树/.idea/C4.5决策树.iml" filepath="D:/数据挖掘/相关代码/03.C4.5决策树算法（使用信息增益率作为属性选择度量）/C4.5决策树/.idea/C4.5决策树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Function/.idea/Function.iml" filepath="$PROJECT_DIR$/../Function/.idea/Function.iml" />
+      <module fileurl="file://D:/学习资料/gui/.idea/gui.iml" filepath="D:/学习资料/gui/.idea/gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject6.iml" filepath="$PROJECT_DIR$/.idea/pythonProject6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject7/.idea/pythonProject7.iml" filepath="$PROJECT_DIR$/../pythonProject7/.idea/pythonProject7.iml" />
+    </modules>
+  </component>
+</project>
